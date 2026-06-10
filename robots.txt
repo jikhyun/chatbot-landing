@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jikhyun.github.io/chatbot-landing/sitemap.xml
+Sitemap: https://landing-eight-neon-27.vercel.app/sitemap.xml
